@@ -1,0 +1,40 @@
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\bin\Debug\CourseWork.exe
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\bin\Debug\CourseWork.pdb
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\obj\Debug\CourseWork.exe
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2\CourseWork\obj\Debug\CourseWork.pdb
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\bin\Debug\CourseWork.exe
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\bin\Debug\CourseWork.pdb
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\obj\Debug\CourseWork.exe
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\obj\Debug\CourseWork.pdb
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork v2 — копия\CourseWork\obj\Debug\CourseWork.Game.resources
+C:\Users\uttsv\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Game.resources
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\bin\Debug\CourseWork.exe
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\bin\Debug\CourseWork.pdb
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\obj\Debug\CourseWork.Game.resources
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\obj\Debug\CourseWork.exe
+C:\Учеба\Курсовая по ТП (змейка)\Курсовая работа\CourseWork final\CourseWork\obj\Debug\CourseWork.pdb
